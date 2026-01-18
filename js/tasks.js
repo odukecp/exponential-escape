@@ -3,7 +3,7 @@ console.log("... \"tasks.js\"");
 const tasks = {
     1: [
         {
-            question: "Deine Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechne nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Deine Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechne nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "1F"
         },
@@ -21,7 +21,7 @@ const tasks = {
 
     2: [
         {
-            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "8A"
         },
@@ -39,7 +39,7 @@ const tasks = {
 
     3: [
         {
-            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "6C"
         },
@@ -57,7 +57,7 @@ const tasks = {
 
     4: [
         {
-            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "81"
         },
@@ -75,7 +75,7 @@ const tasks = {
 
     5: [
         {
-            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "BA"
         },
@@ -93,7 +93,7 @@ const tasks = {
 
     6: [
         {
-            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
+            question: "Eure Entführer haben vor einer Challenge nicht genug recherchiert und je ein Gramm Iod-\\(131\\) gegessen. Der Arzt meinte, dass eine Menge von \\(2\\mathrm{mg}\\) pro Kilogramm Körpergewicht ungefährlich sei. Iod-\\(131\\) hat eine Halbwertszeit von \\(8\\) Tagen, sie wiegen beide \\(80\\mathrm{kg}\\), berechnet nach wie vielen Tagen (auf ganze Zahlen mathematisch gerundet) keine Gefahr mehr für ihre Gesundheit besteht.", 
             answer: 21,
             result: "55"
         },
