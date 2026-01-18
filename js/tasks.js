@@ -8,7 +8,7 @@ const tasks = {
             result: "1F"
         },
         {
-            question: "Gegeben ist eine Funktion \\(f\\) mit \\(f(t)=a\\mathrm{e}^{0.2t}+a\\mathrm{e}^{-0.4t} \\quad (a, b > 0 )\\) und die Bedingungen \\(f(0)=18; f'(3)=0; f(3)=25\\). Bestimme die die exakten Parameter A und B. Der vorläufige Code besteht aus der \\(4.\\), \\(1.\\) und \\(2.\\) Nachkommastelle des Bruchs \\(b/a\\)",
+            question: "Gegeben ist eine Funktion \\(f\\) mit \\(f(t)=a\\mathrm{e}^{0.2t}+b\\mathrm{e}^{-0.4t} \\quad (a, b > 0 )\\) und die Bedingungen \\(f(0)=18; f'(3)=0; f(3)=25\\). Bestimme die die exakten Parameter a und b. Der vorläufige Code besteht aus der \\(4.\\), \\(1.\\) und \\(2.\\) Nachkommastelle des Bruchs \\(b/a\\)",
             answer: 802,
             result: "08"
         },

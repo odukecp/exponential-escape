@@ -4,6 +4,12 @@ let started = false;
 let currentTask = 0;
 let group = 8
 group = uuidToGroup[getIdFromURL()];
+const uuid = getIdFromURL();
+if (uuid && uuidToGroup.hasOwnProperty(uuid)) {
+    group = uuidToGroup[uuid];
+} else {
+    console.warn("UUID nicht gefunden:", uuid);
+}
 
 function init() {
     if (group < 7) {
